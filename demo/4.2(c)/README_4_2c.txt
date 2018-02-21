@@ -1,0 +1,2 @@
+Since the function in io.c and function in calculate.c share the same structure Investment and constants MAX_YEARS, MAX_MESSAGE_LENGTH,
+I still put use one header file named helper.h which contains the header files, two constants, structure Investment, and three prototype functions.
